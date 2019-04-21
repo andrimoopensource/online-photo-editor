@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background: #ddd;
+  background: #1976d2;
   height: 50px;
   position: fixed;
   top: 0;
@@ -20,7 +20,7 @@ header li {
 }
 
 header a {
-  color: #222;
+  color: #fff;
   text-decoration: none;
   padding: 0 15px;
   text-transform: uppercase;
