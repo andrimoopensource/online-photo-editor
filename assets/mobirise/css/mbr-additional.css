@@ -3121,3 +3121,98 @@ body {
 .cid-roxNOBHKHi .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-royHor5qFn {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-royHor5qFn .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-royHpo8qSk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-royHpo8qSk .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-royHpo8qSk .section-text {
+  padding: 2rem 0;
+}
+.cid-royHpo8qSk .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-royHpo8qSk .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-royHlcVEV1 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-royHlcVEV1 .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-royHlcVEV1 .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-royHlcVEV1 .media-wrap img {
+  height: 6rem;
+}
+.cid-royHlcVEV1 .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-royHlcVEV1 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-royHlcVEV1 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-royHlcVEV1 .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-royHlcVEV1 .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-royHlcVEV1 .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-royHlcVEV1 .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-royHlcVEV1 .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-royHlcVEV1 .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
